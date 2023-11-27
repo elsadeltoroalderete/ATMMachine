@@ -3,7 +3,7 @@
 This project is about creating an ATM Machine that simply allows deposits and withdrawals using React and Bootstrap.
 
 ## How to Run: 
-- Get sure you download four files:
+- Get sure you download two files:
    ·  standalone.html
    ·  ATMMachine.jsx
 - Notice that the standalone.html file is where your React app will be loaded inside the root element, also where the "ATMMachine.jsx" is being linked.
